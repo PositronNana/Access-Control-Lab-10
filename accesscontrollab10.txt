@@ -1,0 +1,11 @@
+User ID controlled by request pararmeter with password disclosure
+
+Credentials 
+wiener: peter 
+
+Analysis
+1. Login as wiener user to the account
+2. Access my account
+  : Notice that the user id is equivalent to the name.
+3. Access the administrator account
+4. Delete the Carlos user
